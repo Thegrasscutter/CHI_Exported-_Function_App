@@ -9,6 +9,7 @@ This tool provides a simple interface to test multiple security vulnerabilities 
 The result looks like this:
 
 ![App Screenshot](./imgs/app.png)
+
 *Target Exploit Tool interface with exploit buttons and real-time log display*
 
 ## Features
@@ -175,5 +176,6 @@ The app provides real-time logging of exploit attempts:
    -  Check the logs by running `adb logcat > C:\Users\TGC\Desktop\debugginglogs.logs`, pass it to an LLM and pray
 
 ## Contributing
+
 
 Talk to TGC
