@@ -6,6 +6,11 @@ An Android penetration testing application designed to exploit vulnerabilities i
 
 This tool provides a simple interface to test multiple security vulnerabilities when discovering exported functions in an app. It includes buttons to launch different exploit vectors and displays results in a real-time log.
 
+The result looks like this:
+
+![App Screenshot](./imgs/app.png)
+*Target Exploit Tool interface with exploit buttons and real-time log display*
+
 ## Features
 
 ### Example Exploit Methods
