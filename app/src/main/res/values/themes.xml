@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CHIPOCApp" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/counter_hack_blue</item>
+        <item name="colorPrimaryDark">@color/counter_hack_blue_dark</item>
+        <item name="colorAccent">@color/counter_hack_blue_light</item>
+    </style>
+</resources>

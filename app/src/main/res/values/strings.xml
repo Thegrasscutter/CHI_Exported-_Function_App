@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CHI Function Runner</string>
+    <string name="target_package">com.target.exported.function</string>
+    <string name="exploit_url">https://counterhack.com</string>
+    
+    <!-- Button labels -->
+    <string name="btn_blank_activity">Test LoginActivity Deep Link</string>
+    <string name="btn_payment_fragment">Test ForgotPasswordActivity</string>
+    <string name="btn_custom_page_fragment">Test RedirectUriReceiver</string>
+    <string name="btn_home_activity_intent">Test LoginActivity HTTPS</string>
+    <string name="btn_clear_log">Clear Log</string>
+    
+    <!-- Status messages -->
+    <string name="status_launching">Launching exploit...</string>
+    <string name="status_success">Exploit launched successfully</string>
+    <string name="status_error">Error launching exploit</string>
+    <string name="status_no_target">Target app not found</string>
+    
+    <!-- Exploit descriptions -->
+    <string name="desc_blank_activity">LoginActivity custom scheme deep link exploitation</string>
+    <string name="desc_payment_fragment">ForgotPasswordActivity HTTPS deep link with redirect parameter</string>
+    <string name="desc_custom_page">RedirectUriReceiverActivity custom scheme exploitation</string>
+    <string name="desc_home_activity">LoginActivity HTTPS intent-filters for multiple domains</string>
+</resources>

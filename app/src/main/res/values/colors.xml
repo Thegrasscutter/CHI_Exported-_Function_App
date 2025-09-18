@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="counter_hack_blue">#2459B6</color>
+    <color name="counter_hack_blue_dark">#1A4291</color>
+    <color name="counter_hack_blue_light">#5A7BC8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#F5F5F5</color>
+</resources>
