@@ -56,9 +56,9 @@ This tool provides a simple interface to test multiple security vulnerabilities 
 ### Exploit Buttons
 
 - **Test BlankActivity**: Launches BlankActivity with CustomPageFragment
-- **Test PaymentFragment**: Targets payment processing WebView
-- **Test CustomPageFragment**: Direct CustomPageFragment exploitation
-- **Test HomeActivity Intent**: Intent injection via HomeActivity
+- **Test ForgotPassword**: Targets payment processing WebView
+- **Test RedirectFragment**: Direct CustomPageFragment exploitation
+- **Test DeepActivity Intent**: Intent injection via HomeActivity
 
 ## Technical Details
 
